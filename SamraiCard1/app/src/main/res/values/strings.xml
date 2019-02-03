@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Samrai Card 1</string>
+
+    <string name="drinking_check1">入門証・入館証</string>
+    <string name="drinking_check2">社員証・IDカード</string>
+    <string name="drinking_check3">携帯電話(貸与・個人)</string>
+    <string name="drinking_check4">名刺入れ</string>
+    <string name="drinking_check5">財布・定期入れ</string>
+    <string name="drinking_check6">カバン(紐付きカバンはタスキ掛けにする)</string>
+    <string name="drinking_check7">泥酔者(泥酔者を見捨てない)</string>
+
+    <string name="daily_check1">携帯電話・社員証の紛失防止策は講じていますか？</string>
+    <string name="daily_check2">ゴミ箱に企業情報や個人情報を含む書類を捨てていませんか？</string>
+    <string name="daily_check3">社外で企業情報や個人情報を含む話をしていませんか？</string>
+    <string name="daily_check4">退社時は，机，引き出し，ロッカー等施錠していますか？</string>
+    <string name="daily_check5">無断で企業情報や個人情報を持ち帰っていませんか？</string>
+    <string name="daily_check6">会社が許可したIT環境でのみ業務をしていますか？</string>
+    <string name="daily_check7">お客様のルールは厳守できていますか？</string>
+
+</resources>
